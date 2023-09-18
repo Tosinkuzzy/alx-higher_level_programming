@@ -3,7 +3,5 @@
 
 # Set python environment var
 
-export PYCODE='print(f"Best School: {88+10}")'
-
 # Run code
 python -c "$PYCODE"
