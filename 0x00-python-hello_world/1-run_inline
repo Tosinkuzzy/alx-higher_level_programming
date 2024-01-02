@@ -4,4 +4,4 @@
 # Set python environment var
 
 # Run code
-python -c "$PYCODE"
+python3 -c "$PYCODE"
