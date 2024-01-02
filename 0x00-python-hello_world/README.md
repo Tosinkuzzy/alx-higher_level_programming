@@ -1,0 +1,5 @@
+TO RUN SCRIPTS
+
+SHELL COMMANDS: ./script
+PYTHON COMMANDS: python3
+
