@@ -1,7 +1,2 @@
 #!/bin/bash
-
-
-# Set python environment var
-
-# Run code
 python3 -c "$PYCODE"
