@@ -2,14 +2,14 @@ COMPILE AND RUN SCRIPTS WITH ./SCRIPT
 
 0x01. Python - if/else, loops, functions
 Python
- By: Guillaume
- Weight: 1
- Project will start Jan 2, 2024 6:00 AM, must end by Jan 3, 2024 6:00 AM
- Checker was released at Jan 2, 2024 12:00 PM
- An auto review will be launched at the deadline
+By: {Guillaume}
+Weight: 1
+Project will start Jan 2, 2024 6:00 AM, must end by Jan 3, 2024 6:00 AM
+Checker was released at Jan 2, 2024 12:00 PM
+An auto review will be launched at the deadline
 
 
-Resources
+[Resources]
 Read or watch:
 
 More Control Flow Tools (Read until “4.6. Defining Functions” included)
@@ -24,7 +24,7 @@ python3
 Learning Objectives
 At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
 
-General
+[General]
 Why Python programming is awesome
 Why indentation is so important in Python
 How to use the if, if ... else statements
@@ -63,19 +63,23 @@ All your files should end with a new line
 Your code should use the Betty style. It will be checked using betty-style.pl and betty-doc.pl
 You are not allowed to use global variables
 No more than 5 functions per file
-In the following examples, the main.c files are shown as examples. You can use them to test your functions, but you don’t have to push them to your repo (if you do we won’t take them into account). We will use our own main.c files at compilation. Our main.c files might be different from the one shown in the examples
+In the following examples, the main.c files are shown as examples. 
+You can use them to test your functions, but you don’t have to push them to your repo (if you do we won’t take them into account). 
+We will use our own main.c files at compilation. 
+Our main.c files might be different from the one shown in the examples
 The prototypes of all your functions should be included in your header file called lists.h
 Don’t forget to push your header file
 All your header files should be include guarded
-More Info
+[More Info]
 Note: you do not need to understand lists yet.
 
-Quiz questions
+[Quiz questions]
 Great! You've completed the quiz successfully! Keep going! (Show quiz)
-Tasks
+{Tasks}
 0. Positive anything is better than negative nothing
 mandatory
-This program will assign a random signed number to the variable number each time it is executed. Complete the source code in order to print whether the number stored in the variable number is positive or negative.
+This program will assign a random signed number to the variable number each time it is executed. 
+Complete the source code in order to print whether the number stored in the variable number is positive or negative.
 
 You can find the source code here
 The variable number will store a different value every time you will run this program
@@ -113,11 +117,13 @@ File: 0-positive_or_negative.py
    
 1. The last digit
 mandatory
-This program will assign a random signed number to the variable number each time it is executed. Complete the source code in order to print the last digit of the number stored in the variable number.
+This program will assign a random signed number to the variable number each time it is executed. 
+Complete the source code in order to print the last digit of the number stored in the variable number.
 
 You can find the source code here
 The variable number will store a different value every time you will run this program
-You don’t have to understand what import, random.randint do. Please do not touch this code. This line should not change: number = random.randint(-10000, 10000)
+You don’t have to understand what import, random.randint do. 
+Please do not touch this code. This line should not change: number = random.randint(-10000, 10000)
 The output of the program should be:
 The string Last digit of, followed by
 the number, followed by
@@ -239,7 +245,10 @@ You can only use one loop in your code
 You are not allowed to store numbers or strings in a variable
 You are not allowed to import any module
 guillaume@ubuntu:~/0x01$ ./5-print_comb2.py
-00, 01, 02, 03, 04, 05, 06, 07, 08, 09, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99
+00, 01, 02, 03, 04, 05, 06, 07, 08, 09, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22,
+23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46,
+47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71,
+72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99
 guillaume@ubuntu:~/0x01$ 
 Repo:
 
@@ -262,7 +271,8 @@ You can only use no more than 2 loops in your code
 You are not allowed to store numbers or strings in a variable
 You are not allowed to import any module
 guillaume@ubuntu:~/0x01$ ./6-print_comb3.py
-01, 02, 03, 04, 05, 06, 07, 08, 09, 12, 13, 14, 15, 16, 17, 18, 19, 23, 24, 25, 26, 27, 28, 29, 34, 35, 36, 37, 38, 39, 45, 46, 47, 48, 49, 56, 57, 58, 59, 67, 68, 69, 78, 79, 89
+01, 02, 03, 04, 05, 06, 07, 08, 09, 12, 13, 14, 15, 16, 17, 18, 19, 23, 24, 25, 26, 27, 28, 29, 34, 35,
+36, 37, 38, 39, 45, 46, 47, 48, 49, 56, 57, 58, 59, 67, 68, 69, 78, 79, 89
 guillaume@ubuntu:~/0x01$ 
 Repo:
 
@@ -440,7 +450,10 @@ fizzbuzz()
 print("")
 
 guillaume@ubuntu:~/0x01$ ./12-main.py | cat -e
-1 2 Fizz 4 Buzz Fizz 7 8 Fizz Buzz 11 Fizz 13 14 FizzBuzz 16 17 Fizz 19 Buzz Fizz 22 23 Fizz Buzz 26 Fizz 28 29 FizzBuzz 31 32 Fizz 34 Buzz Fizz 37 38 Fizz Buzz 41 Fizz 43 44 FizzBuzz 46 47 Fizz 49 Buzz Fizz 52 53 Fizz Buzz 56 Fizz 58 59 FizzBuzz 61 62 Fizz 64 Buzz Fizz 67 68 Fizz Buzz 71 Fizz 73 74 FizzBuzz 76 77 Fizz 79 Buzz Fizz 82 83 Fizz Buzz 86 Fizz 88 89 FizzBuzz 91 92 Fizz 94 Buzz Fizz 97 98 Fizz Buzz $
+1 2 Fizz 4 Buzz Fizz 7 8 Fizz Buzz 11 Fizz 13 14 FizzBuzz 16 17 Fizz 19 Buzz Fizz 22 23 Fizz Buzz 26
+Fizz 28 29 FizzBuzz 31 32 Fizz 34 Buzz Fizz 37 38 Fizz Buzz 41 Fizz 43 44 FizzBuzz 46 47 Fizz 49 Buzz
+Fizz 52 53 Fizz Buzz 56 Fizz 58 59 FizzBuzz 61 62 Fizz 64 Buzz Fizz 67 68 Fizz Buzz 71 Fizz 73 74
+FizzBuzz 76 77 Fizz 79 Buzz Fizz 82 83 Fizz Buzz 86 Fizz 88 89 FizzBuzz 91 92 Fizz 94 Buzz Fizz 97 98 Fizz Buzz $
 guillaume@ubuntu:~/0x01$ 
 Repo:
 
