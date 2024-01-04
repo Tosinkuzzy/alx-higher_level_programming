@@ -1,5 +1,3 @@
 #!/usr/bin/python3
 for num in range(100):
-    print("{:02d}".format(num), sep=', ')
-    if num < 99:
-        print('\n')
+    print("{:02d}".format(num), sep=', ' if num < 99 else '\n')
