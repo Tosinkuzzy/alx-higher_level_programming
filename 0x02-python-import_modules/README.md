@@ -42,3 +42,108 @@ Your code should use the pycodestyle (version 2.8.*)
 All your files must be executable
 The length of your files will be tested using wc
 
+Great! You've completed the quiz successfully! Keep going! (Hide quiz)
+[Question #0]
+What do these lines print?
+
+>>> def my_function():
+>>>     print("In my function")
+>>> 
+>>> my_function()
+
+Nothing
+
+
+“In my function”
+
+
+In my function
+
+
+function my_function at …
+
+[Question #1]
+What do these lines print?
+
+>>> def my_function(counter=89):
+>>>     print("Counter: {}".format(counter))
+>>> 
+>>> my_function(12)
+
+Counter: 12
+
+
+Counter: 89
+
+
+Counter: 101
+
+[Question #2]
+What do these lines print?
+
+>>> def my_function():
+>>>     print("In my function")
+>>> 
+>>> my_function
+
+Nothing
+
+
+“In my function”
+
+
+In my function
+
+
+function my_function at …
+
+[Question #3]
+What do these lines print?
+
+>>> def my_function(counter=89):
+>>>     return counter + 1
+>>> 
+>>> print(my_function())
+
+891
+
+
+1
+
+
+89
+
+
+90
+
+[Question #4]
+What do these lines print?
+
+>>> def my_function(counter=89):
+>>>     print("Counter: {}".format(counter))
+>>> 
+>>> my_function()
+
+Counter: 12
+
+
+Counter: 89
+
+
+Counter: 101
+
+[Question #5]
+What do these lines print?
+
+>>> def my_function(counter):
+>>>     print("Counter: {}".format(counter))
+>>> 
+>>> my_function(12)
+
+Counter: counter
+
+
+Counter: c
+
+
+Counter: 12
