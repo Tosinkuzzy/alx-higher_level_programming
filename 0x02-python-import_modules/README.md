@@ -307,3 +307,12 @@ Repo:
 GitHub repository: alx-higher_level_programming
 Directory: 0x02-python-import_modules
 File: 2-args.py
+
+3. Infinite addition
+mandatory
+
+Write a program that prints the result of the addition of all arguments
+
+The output should be the result of the addition of all arguments, followed by a new line
+You can cast arguments into integers by using int() (you can assume that all arguments can be casted into integers)
+Your code should not be executed when imported
