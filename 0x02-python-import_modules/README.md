@@ -288,3 +288,22 @@ The number of elements of argv can be retrieved by using: len(argv)
 You do not have to fully understand lists yet, but imagine that argv can be used just like a C array: you can use an index to walk through it.
  There are other ways (which will be preferred for future project tasks), if you know them you can use them.
 
+guillaume@ubuntu:~/0x02$ ./2-args.py 
+0 arguments.
+guillaume@ubuntu:~/0x02$ ./2-args.py Hello
+1 argument:
+1: Hello
+guillaume@ubuntu:~/0x02$ ./2-args.py Hello Welcome To The Best School
+6 arguments:
+1: Hello
+2: Welcome
+3: To
+4: The
+5: Best
+6: School
+guillaume@ubuntu:~/0x02$ 
+Repo:
+
+GitHub repository: alx-higher_level_programming
+Directory: 0x02-python-import_modules
+File: 2-args.py
