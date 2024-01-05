@@ -316,3 +316,15 @@ Write a program that prints the result of the addition of all arguments
 The output should be the result of the addition of all arguments, followed by a new line
 You can cast arguments into integers by using int() (you can assume that all arguments can be casted into integers)
 Your code should not be executed when imported
+
+guillaume@ubuntu:~/0x02$ ./3-infinite_add.py
+0
+guillaume@ubuntu:~/0x02$ ./3-infinite_add.py 79 10
+89
+guillaume@ubuntu:~/0x02$ ./3-infinite_add.py 79 10 -40 -300 89 
+-162
+guillaume@ubuntu:~/0x02$ 
+
+Last but not least, your program should also handle big numbers. 
+And the good news is: if your program works for the above example, 
+it will work for the following example:
