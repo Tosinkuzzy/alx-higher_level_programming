@@ -120,3 +120,10 @@ What do these lines print?
 >>> a = [1, 2, 3, 4]
 >>> a[-1]
 output = 4
+
+Question #7
+What do these lines print?
+
+>>> a = [1, 2, 3, 4]
+>>> a[1:3]
+output = [2, 3]
