@@ -82,4 +82,12 @@ What do these lines print?
 b
 output = [1, 2, 10, 4]
 
+Question #2
+What do these lines print?
 
+>>> a = [1, 2, 3, 4]
+>>> b = a
+>>> a[2] = 10
+>>> a
+b
+output = [1, 2, 10, 4]
