@@ -106,3 +106,10 @@ What do these lines print?
 >>> a = [1, 2, 3, 4]
 >>> a[0]
 output = 1
+
+Question #5
+What do these lines print?
+
+>>> a = [1, 2, 3, 4]
+>>> len(a)
+output = 4
