@@ -72,3 +72,14 @@ What do these lines print?
 a
 output = [1, 2, 3, 4]
 
+Question #1
+What do these lines print?
+
+>>> a = [1, 2, 3, 4]
+>>> b = a
+>>> a[2] = 10
+>>> b
+b
+output = [1, 2, 10, 4]
+
+
