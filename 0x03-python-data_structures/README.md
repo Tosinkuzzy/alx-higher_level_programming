@@ -142,3 +142,28 @@ What do these lines print?
 >>> a = [1, 2, 3, 4]
 >>> a[-3]
 output = 2
+
+[Tasks]:
+0. Print a list of integers
+mandatory
+Write a function that prints all integers of a list.
+
+Prototype: def print_list_integer(my_list=[]):
+Format: one integer per line. See example
+You are not allowed to import any module
+You can assume that the list only contains integers
+You are not allowed to cast integers into strings
+You have to use str.format() to print integers
+guillaume@ubuntu:~/0x03$ cat 0-main.py
+#!/usr/bin/python3
+print_list_integer = __import__('0-print_list_integer').print_list_integer
+
+my_list = [1, 2, 3, 4, 5]
+print_list_integer(my_list)
+
+guillaume@ubuntu:~/0x03$ ./0-main.py
+1
+2
+3
+4
+5
