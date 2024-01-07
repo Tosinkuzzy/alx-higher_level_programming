@@ -59,4 +59,16 @@ We will use our own main.c files at compilation.
 Our main.c files might be different from the one shown in the examples
 The prototypes of all your functions should be included in your header file called lists.h
 Don’t forget to push your header file
-All your header files should be include guarded
+All your header files should be include guarded.
+
+[QUIZ QUESTIONS]:
+
+Question #0
+What do these lines print?
+
+>>> a = [1, 2, 3, 4]
+>>> b = a
+>>> b
+a
+output = [1, 2, 3, 4]
+
