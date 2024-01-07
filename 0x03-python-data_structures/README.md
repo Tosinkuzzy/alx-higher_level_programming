@@ -91,3 +91,11 @@ What do these lines print?
 >>> a
 b
 output = [1, 2, 10, 4]
+
+Question #3
+What do these lines print?
+
+>>> a = [1, 2, 3, 4]
+>>> a[2] = 10
+>>> a
+output = [1, 2, 10, 4]
