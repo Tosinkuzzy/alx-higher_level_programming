@@ -135,3 +135,10 @@ What do these lines print?
 >>> a.append(5)
 >>> len(a)
 output = 5
+
+Question #9
+What do these lines print?
+
+>>> a = [1, 2, 3, 4]
+>>> a[-3]
+output = 2
