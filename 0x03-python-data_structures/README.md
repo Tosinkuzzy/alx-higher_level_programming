@@ -127,3 +127,11 @@ What do these lines print?
 >>> a = [1, 2, 3, 4]
 >>> a[1:3]
 output = [2, 3]
+
+Question #8
+What do these lines print?
+
+>>> a = [1, 2, 3, 4]
+>>> a.append(5)
+>>> len(a)
+output = 5
