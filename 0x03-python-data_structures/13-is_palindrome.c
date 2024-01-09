@@ -2,47 +2,19 @@
 #include <stdio.h>
 #include "lists.h"
 
-/**
-  * is_palindrome - Checks if a singly linked list is a palindrome
-  * @head: The head of the singly linked list
-  *
-  * Return: 0 if it is not a palindrome, 1 if it is a palindrome
-  */
-int is_palindrome(listint_t **head)
+size_t listint_len(const listint_t *h)
 {
-listint_t *start = NULL, *end = NULL;
-unsigned int i = 0, len = 0, len_t = 0, len_list = 0;
+int length = 0;
 
-if (head == NULL)
-return (0);
-
-if (*head == NULL)
-return (1);
-
-start = *head;
-len = listint_len(start);
-len_t = len * 2;
-len_list = len_t - 2;
-end = *head;
-
-for (; i < len_t; i = i + 2)
+while (h != NULL)
 {
-if (start[i].n != end[len_list].n)
-return (0);
-
-len_list = len_list - 2;
+++length;
+h = h->next;
 }
 
-return (1);
+return (length);
 }
 
-/**
-  * get_nodeint_at_index - Gets a node from a linked list
-  * @head: The head of the linked list
-  * @index: The index to find in the linked list
-  *
-  * Return: The specific node of the linked list
-  */
 listint_t *get_nodeint_at_index(listint_t *head, unsigned int index)
 {
 listint_t *current = head;
@@ -63,21 +35,27 @@ current = current->next;
 return (NULL);
 }
 
-/**
-  * listint_len - Counts the number of elements in a linked list
-  * @h: The linked list to count
-  *
-  * Return: Number of elements in the linked list
-  */
-size_t listint_len(const listint_t *h)
+int is_palindrome(listint_t **head)
 {
-int lenght = 0;
+listint_t *start = NULL, *end = NULL;
+unsigned int i = 0, len = 0;
 
-while (h != NULL)
+if (head == NULL)
+return (0);
+
+if (*head == NULL)
+return (1);
+
+len = listint_len(*head);
+
+for (; i < len; i++)
 {
-++lenght;
-h = h->next;
+start = get_nodeint_at_index(*head, i);
+end = get_nodeint_at_index(*head, len-i-1);
+if (start->n != end->n)
+return (0);
 }
 
-return (lenght);
+return (1);
 }
+
