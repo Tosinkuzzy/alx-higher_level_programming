@@ -3,7 +3,8 @@
 #b = a.get('projects')
 #print(b)
 a = { 'id': 89, 'name': "John" }
-a.get('age', 0)
+b = a.get('id')
+print(b)
 
 #for i in [1, 3, 4, 2]:
  #   print(i, end=" ")
