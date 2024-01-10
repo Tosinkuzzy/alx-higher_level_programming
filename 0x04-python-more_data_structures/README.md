@@ -138,3 +138,11 @@ What do these lines print?
 >>> a.get('projects')
 
 output = [1, 2, 3, 4]
+
+[Question]: #11
+What do these lines print?
+
+>>> a = { 'id': 89, 'name': "John" }
+>>> a.get('age')
+
+output = Nothing
