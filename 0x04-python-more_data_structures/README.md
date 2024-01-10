@@ -114,3 +114,11 @@ What do these lines print?
 >>> a.get('id')
 
 output = 89
+
+[Question]: #8
+What do these lines print?
+
+>>> for i in ["Hello", "Holberton", "School", 98]:
+>>>     print(i, end=" ")
+
+output = Hello Holberton School 98
