@@ -106,3 +106,11 @@ What do these lines print?
 >>> a.get('age', 0)
 
 output = 0
+
+[Question]: #7
+What do these lines print?
+
+>>> a = { 'id': 89, 'name': "John" }
+>>> a.get('id')
+
+output = 89
