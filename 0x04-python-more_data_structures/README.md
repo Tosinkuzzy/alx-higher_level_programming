@@ -214,3 +214,28 @@ guillaume@ubuntu:~/0x04$
 [GitHub repository]: alx-higher_level_programming
 [Directory]: 0x04-python-more_data_structures
 [File]: 1-search_replace.py
+
+2. Unique addition
+
+Write a function that adds all unique integers in a list (only once for each integer).
+
+Prototype: def uniq_add(my_list=[]):
+You are not allowed to import any module
+guillaume@ubuntu:~/0x04$ cat 2-main.py
+#!/usr/bin/python3
+uniq_add = __import__('2-uniq_add').uniq_add
+
+my_list = [1, 2, 3, 1, 4, 2, 5]
+result = uniq_add(my_list)
+print("Result: {:d}".format(result))
+
+guillaume@ubuntu:~/0x04$ ./2-main.py
+Result: 15
+guillaume@ubuntu:~/0x04$ 
+Repo:
+
+[GitHub repository]: alx-higher_level_programming
+[Directory]: 0x04-python-more_data_structures
+[File]: 2-uniq_add.py
+
+
