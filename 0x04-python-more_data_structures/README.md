@@ -98,3 +98,11 @@ What do these lines print?
 >>>     print(i, end=" ")
 
 output = 1 3 4 2
+
+[Question]: #6
+What do these lines print?
+
+>>> a = { 'id': 89, 'name': "John" }
+>>> a.get('age', 0)
+
+output = 0
