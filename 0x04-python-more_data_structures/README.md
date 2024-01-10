@@ -51,3 +51,12 @@ The length of your files will be tested using wc
 
 [Quiz questions]:
 
+Question #0
+What do these lines print?
+
+>>> for i in range(0, 3):
+>>>     print(i, end=" ")
+
+output = 0 1 2
+
+
