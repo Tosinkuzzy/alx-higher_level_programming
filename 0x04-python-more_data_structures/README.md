@@ -91,4 +91,10 @@ What do these lines print?
 
 output = 89
 
+[Question]: #5
+What do these lines print?
 
+>>> for i in [1, 3, 4, 2]:
+>>>     print(i, end=" ")
+
+output = 1 3 4 2
