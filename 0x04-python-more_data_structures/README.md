@@ -149,3 +149,5 @@ output = Nothing
 
 [Tasks]:
 
+0. Squared simple
+
