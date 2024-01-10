@@ -180,4 +180,8 @@ guillaume@ubuntu:~/0x04$ ./0-main.py
 [[1, 4, 9], [16, 25, 36], [49, 64, 81]]
 [[1, 2, 3], [4, 5, 6], [7, 8, 9]]
 
+[Repo]:
 
+[GitHub repository]: alx-higher_level_programming
+[Directory]: 0x04-python-more_data_structures
+[File]: 0-square_matrix_simple.py
