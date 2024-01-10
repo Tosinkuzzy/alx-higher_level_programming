@@ -51,7 +51,7 @@ The length of your files will be tested using wc
 
 [Quiz questions]:
 
-Question #0
+[Question]: #0
 What do these lines print?
 
 >>> for i in range(0, 3):
@@ -59,12 +59,20 @@ What do these lines print?
 
 output = 0 1 2
 
-Question #1
+[Question]: #1
 What do these lines print?
 
 >>> for i in [1, 2, 3, 4]:
 >>>     print(i, end=" ")
 
 output = 1 2 3 4
+
+[Question]: #2
+What do these lines print?
+
+>>> for i in range(1, 4):
+>>>     print(i, end=" ")
+
+output = 1 2 3
 
 
