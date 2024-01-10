@@ -59,4 +59,12 @@ What do these lines print?
 
 output = 0 1 2
 
+Question #1
+What do these lines print?
+
+>>> for i in [1, 2, 3, 4]:
+>>>     print(i, end=" ")
+
+output = 1 2 3 4
+
 
