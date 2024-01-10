@@ -122,3 +122,11 @@ What do these lines print?
 >>>     print(i, end=" ")
 
 output = Hello Holberton School 98
+
+[Question]: #9
+What do these lines print?
+
+>>> a = { 'id': 89, 'name': "John", 'projects': [1, 2, 3, 4] }
+>>> a.get('projects')[3]
+
+output = 4
