@@ -1,2 +1,2 @@
-def number_keys(list_dict):
-    return len(list_dict)
+def number_keys(a_dictionary):
+    return len(a_dictionary)
