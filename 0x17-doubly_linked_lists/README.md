@@ -43,5 +43,24 @@ You can use them to test your functions, but you don’t have to push them to yo
 Our main.c files might be different from the one shown in the examples
 The prototypes of all your functions should be included in your header file called lists.h
 Don’t forget to push your header file
+
+More Info
+Please use this data structure for this project:
+
+/**
+ * struct dlistint_s - doubly linked list
+ * @n: integer
+ * @prev: points to the previous node
+ * @next: points to the next node
+ *
+ * Description: doubly linked list node structure
+ * 
+ */
+typedef struct dlistint_s
+{
+    int n;
+    struct dlistint_s *prev;
+    struct dlistint_s *next;
+} dlistint_t;
 All your header files should be include guarded
 
