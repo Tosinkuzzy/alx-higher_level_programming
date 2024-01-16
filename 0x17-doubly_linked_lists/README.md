@@ -404,3 +404,5 @@ GitHub repository: alx-low_level_programming
 Directory: 0x17-doubly_linked_lists
 File: 5-get_dnodeint.c
 
+6. Sum list
+
