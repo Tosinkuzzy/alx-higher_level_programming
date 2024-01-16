@@ -676,4 +676,8 @@ Find the largest palindrome made from the product of two 3-digit numbers.
 
 Save the result in the file 102-result
 Your file should contain the exact result, no new line, no extra space
+Repo:
 
+GitHub repository: alx-low_level_programming
+Directory: 0x17-doubly_linked_lists
+File: 102-result
