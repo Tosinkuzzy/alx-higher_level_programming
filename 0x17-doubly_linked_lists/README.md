@@ -452,4 +452,5 @@ GitHub repository: alx-low_level_programming
 Directory: 0x17-doubly_linked_lists
 File: 6-sum_dlistint.c
 
+7. Insert at index
 
