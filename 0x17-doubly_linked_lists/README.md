@@ -216,4 +216,15 @@ int main(void)
     print_dlistint(head);
     return (EXIT_SUCCESS);
 }
+julien@ubuntu:~/0x17. Doubly linked lists$ gcc -Wall -pedantic -Werror -Wextra -std=gnu89 2-main.c 2-add_dnodeint.c 0-print_dlistint.c -o c
+julien@ubuntu:~/0x17. Doubly linked lists$ ./c 
+1024
+402
+98
+4
+3
+2
+1
+0
+julien@ubuntu:~/0x17. Doubly linked lists$ 
 
