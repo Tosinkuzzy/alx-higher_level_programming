@@ -441,5 +441,15 @@ int main(void)
     head = NULL;
     return (EXIT_SUCCESS);
 }
+julien@ubuntu:~/0x17. Doubly linked lists$ gcc -Wall -pedantic -Werror -Wextra 6-main.c -std=gnu89 3-add_dnodeint_end.c 4-free_dlistint.c 6-sum_dlistint.c -o i
+julien@ubuntu:~/0x17. Doubly linked lists$ ./i 
+sum = 1534
+julien@ubuntu:~/0x17. Doubly linked lists$ 
+
+Repo:
+
+GitHub repository: alx-low_level_programming
+Directory: 0x17-doubly_linked_lists
+File: 6-sum_dlistint.c
 
 
