@@ -405,4 +405,9 @@ Directory: 0x17-doubly_linked_lists
 File: 5-get_dnodeint.c
 
 6. Sum list
+Write a function that returns the sum of all the data (n) of a dlistint_t linked list.
+
+Prototype: int sum_dlistint(dlistint_t *head);
+if the list is empty, return 0
+
 
