@@ -172,4 +172,8 @@ int main(void)
     free(new);
     return (EXIT_SUCCESS);
 }
+julien@ubuntu:~/0x17. Doubly linked lists$ gcc -Wall -pedantic -Werror -Wextra -std=gnu89 1-main.c 1-dlistint_len.c -o b
+julien@ubuntu:~/0x17. Doubly linked lists$ ./b 
+-> 2 elements
+julien@ubuntu:~/0x17. Doubly linked lists$ 
 
