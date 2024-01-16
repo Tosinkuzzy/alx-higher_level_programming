@@ -594,4 +594,66 @@ int main(void)
     print_dlistint(head);
     return (0);
 }
+julien@ubuntu:~/0x17. Doubly linked lists$ gcc -Wall -pedantic -Werror -Wextra -std=gnu89 8-main.c 3-add_dnodeint_end.c 0-print_dlistint.c 4-free_dlistint.c 8-delete_dnodeint.c -o k
+julien@ubuntu:~/0x17. Doubly linked lists$ ./k
+0
+1
+2
+3
+4
+98
+402
+1024
+-----------------
+0
+1
+2
+3
+4
+402
+1024
+-----------------
+1
+2
+3
+4
+402
+1024
+-----------------
+2
+3
+4
+402
+1024
+-----------------
+3
+4
+402
+1024
+-----------------
+4
+402
+1024
+-----------------
+402
+1024
+-----------------
+1024
+-----------------
+-----------------
+-----------------
+-----------------
+-----------------
+-----------------
+-----------------
+-----------------
+-----------------
+-----------------
+julien@ubuntu:~/0x17. Doubly linked lists$ 
+Repo:
+
+GitHub repository: alx-low_level_programming
+Directory: 0x17-doubly_linked_lists
+File: 8-delete_dnodeint.c
+
 
