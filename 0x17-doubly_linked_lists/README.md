@@ -120,4 +120,14 @@ int main(void)
     free(new);
     return (EXIT_SUCCESS);
 }
+julien@ubuntu:~/0x17. Doubly linked lists$ gcc -Wall -pedantic -Werror -Wextra -std=gnu89 0-main.c 0-print_dlistint.c -o a
+julien@ubuntu:~/0x17. Doubly linked lists$ ./a 
+9
+8
+-> 2 elements
+julien@ubuntu:~/0x17. Doubly linked lists$ 
+Repo:
 
+GitHub repository: alx-low_level_programming
+Directory: 0x17-doubly_linked_lists
+File: 0-print_dlistint.c
