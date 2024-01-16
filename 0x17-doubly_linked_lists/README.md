@@ -283,4 +283,7 @@ Directory: 0x17-doubly_linked_lists
 File: 3-add_dnodeint_end.c
 
 4. Free list
+Write a function that frees a dlistint_t list.
+
+Prototype: void free_dlistint(dlistint_t *head);
 
