@@ -386,5 +386,21 @@ int main(void)
     head = NULL;
     return (EXIT_SUCCESS);
 }
+julien@ubuntu:~/0x17. Doubly linked lists$ gcc -Wall -pedantic -Werror -Wextra -std=gnu89 5-main.c 3-add_dnodeint_end.c 0-print_dlistint.c 4-free_dlistint.c 5-get_dnodeint.c -o h
+julien@ubuntu:~/0x17. Doubly linked lists$ ./h
+0
+1
+2
+3
+4
+98
+402
+1024
+98
+julien@ubuntu:~/0x17. Doubly linked lists$ 
+Repo:
 
+GitHub repository: alx-low_level_programming
+Directory: 0x17-doubly_linked_lists
+File: 5-get_dnodeint.c
 
