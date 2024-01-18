@@ -195,4 +195,7 @@ Directory: 0x18-dynamic_libraries
 File: 1-create_dynamic_lib.sh
 
 2. Let's call C functions from Python
+I know, you’re missing C when coding in Python. So let’s fix that!
+
+Create a dynamic library that contains C functions that can be called from Python. See example for more detail.
 
