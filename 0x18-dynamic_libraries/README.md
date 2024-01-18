@@ -237,3 +237,8 @@ julien@ubuntu:~/0x18$ python3 100-tests.py
 39 % -62 = 39
 julien@ubuntu:~/0x18$ 01
 
+Repo:
+
+GitHub repository: alx-low_level_programming
+Directory: 0x18-dynamic_libraries
+File: 100-operations.so
