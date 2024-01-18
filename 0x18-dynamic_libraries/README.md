@@ -287,3 +287,10 @@ mss@gm_server$ ./gm 9 8 10 24 75 9
 --> Please make me win!
 mss@gm_server$ exit
 
+Tip: LD_PRELOAD
+
+Repo:
+
+GitHub repository: alx-low_level_programming
+Directory: 0x18-dynamic_libraries
+File: 101-make_me_win.sh
