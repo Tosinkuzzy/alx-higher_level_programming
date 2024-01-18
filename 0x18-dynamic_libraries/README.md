@@ -152,3 +152,5 @@ julien@ubuntu:~/0x18. Dynamic libraries$
 GitHub repository: alx-low_level_programming
 Directory: 0x18-dynamic_libraries
 File: libdynamic.so, main.h
+
+1. Without libraries what have we? We have no past and no future
