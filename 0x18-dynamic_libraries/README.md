@@ -55,4 +55,5 @@ A README.md file, at the root of the folder of the project, describing what each
 All your files must be executable
 
 [Tasks]:
+0. A library is not a luxury but one of the necessities of life
 
