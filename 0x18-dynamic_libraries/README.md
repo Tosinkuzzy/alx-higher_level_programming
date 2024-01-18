@@ -273,3 +273,17 @@ Before running the gm program, MSS always check the content of the directory
 MSS always exit after running the program gm
 TL;DR; This is what is going to happen
 
+mss@gm_server$ . ./101-make_me_win.sh
+mss@gm_server$ rm 101-make_me_win.sh
+mss@gm_server$ ls -la
+. .. gm
+mss@gm_server$ history -c
+mss@gm_server$ clear
+mss@gm_server$ ls -la
+. .. gm
+mss@gm_server$ md5sum gm
+d52e6c18e0723f5b025a75dea19ef365  gm
+mss@gm_server$ ./gm 9 8 10 24 75 9
+--> Please make me win!
+mss@gm_server$ exit
+
