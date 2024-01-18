@@ -154,3 +154,5 @@ Directory: 0x18-dynamic_libraries
 File: libdynamic.so, main.h
 
 1. Without libraries what have we? We have no past and no future
+Create a script that creates a dynamic library called liball.so from all the .c files that are in the current directory.
+
