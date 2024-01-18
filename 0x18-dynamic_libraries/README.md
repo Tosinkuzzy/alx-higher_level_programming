@@ -188,3 +188,9 @@ julien@ubuntu:~/0x18. Dynamic libraries$ nm -D --defined-only liball.so
 0000000000001176 T _strstr
 julien@ubuntu:~/0x18. Dynamic libraries$ 
 
+Repo:
+
+GitHub repository: alx-low_level_programming
+Directory: 0x18-dynamic_libraries
+File: 1-create_dynamic_lib.sh
+
