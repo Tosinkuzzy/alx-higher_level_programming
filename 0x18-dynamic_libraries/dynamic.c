@@ -28,7 +28,7 @@ return (0);
 }
 int _strlen(char *s)
 {
-return (0);
+return (EXIT_SUCCESS);
 }
 void _puts(char *s)
 {
