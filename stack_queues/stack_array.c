@@ -54,3 +54,16 @@ top = top + 1;
 inp_array[top] = x;
 }
 }
+void pop()
+{
+if (top == -1)
+{
+printf("\nOverflow!!");
+}
+else
+{
+printf("\nPopped element: %d", inp_array[top]);
+top = top - 1;
+}
+}
+
