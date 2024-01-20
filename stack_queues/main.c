@@ -3,39 +3,37 @@
 #include "main.h"
 
 /**
-* push - main
-* pop: ret
-* show: arg
-* return: 0, 1.
+* main - start
+* Return: 0, 1.
 */
 int main(void)
 {
 struct Stack stack = {-1};
 int choice;
 
-while(1)
+while (1)
 {
 printf("\nPerform operation on the stacks:");
 printf("\n1.Push the element\n2.Pop the element\n3.Show\n4.End");
 printf("\n\nEnter the choice: ");
 scanf("%d", &choice);
 
-switch(choice)
+switch (choice)
 {
 case 1:
-    push(&stack);
-    break;
+push(&stack);
+break;
 case 2:
-    pop(&stack);
-    break;
+pop(&stack);
+break;
 case 3:
-    show(&stack);
-    break;
+show(&stack);
+break;
 case 4:
-    exit(0);
-    break;
+exit(0);
+break;
 default:
-    printf("\nInvalid choice!!");
+printf("\nInvalid choice!!");
 }
 }
 }

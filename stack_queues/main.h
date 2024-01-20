@@ -16,4 +16,4 @@ void push(struct Stack *stack);
 void pop(struct Stack *stack);
 void show(struct Stack *stack);
 
-#endif /* MAIN_H *\
+#endif /* MAIN_H */
