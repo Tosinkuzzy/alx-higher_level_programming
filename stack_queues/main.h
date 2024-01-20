@@ -12,8 +12,8 @@ struct Stack
     int inp_array[SIZE];
 };
 
-void push(struct Stack* stack);
-void pop(struct Stack* stack);
-void show(struct Stack* stack);
+void push(struct Stack *stack);
+void pop(struct Stack *stack);
+void show(struct Stack *stack);
 
 #endif /* MAIN_H *\
