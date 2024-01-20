@@ -4,7 +4,6 @@
 #define SIZE 4
 
 int top = -1, inp_array[SIZE];
-
 void push();
 void pop();
 void show();
@@ -18,7 +17,7 @@ while(1)
 printf("\nPerform operation on the stacks:");
 printf("\n1.Push the element\n2.Pop the element\n3.Show\n4.End");
 printf("\n\nEnter the choice: ");
-printf("%d", &choice);
+scanf("%d", &choice);
 
 switch(choice)
 {
@@ -35,10 +34,11 @@ case 4:
     exit(0);
     break;
 default:
-printf("\nInvalid choice!!");
+    printf("\nInvalid choice!!");
 }
 }
 }
+
 void push()
 {
 int x;
@@ -55,11 +55,12 @@ top = top + 1;
 inp_array[top] = x;
 }
 }
+
 void pop()
 {
 if (top == -1)
 {
-printf("\nOverflow!!");
+printf("\nUnderflow!!");
 }
 else
 {
@@ -67,6 +68,7 @@ printf("\nPopped element: %d", inp_array[top]);
 top = top - 1;
 }
 }
+
 void show()
 {
 if (top == -1)
@@ -76,7 +78,8 @@ printf("\nUnderflow!!");
 else
 {
 printf("\nElements present in the stacks: \n");
-for (i = top; i >= 0; i--);
+for (int i = top; i >= 0; i--)
 printf("%d\n", inp_array[i]);
 }
 }
+
