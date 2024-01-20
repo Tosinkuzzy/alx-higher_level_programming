@@ -33,9 +33,16 @@ show();
 case 4:
 exit(0);
 break;
-
 default:
 printf("\nInvalid choice!!");
 }
 }
+}
+void push()
+{
+int x;
+
+if (top == SIZE - 1)
+{
+printf("\nOverflow!!");
 }
