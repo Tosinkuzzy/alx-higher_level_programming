@@ -1,4 +1,3 @@
-#!/bin/bash
 #include <stdlib.h>
 #include <stdio.h>
 
@@ -23,16 +22,17 @@ printf("%d", &choice);
 switch(choice)
 {
 case 1:
-push();
-break;
+    push();
+    break;
 case 2:
-pop();
-break;
+    pop();
+    break;
 case 3:
-show();
+    show();
+    break;
 case 4:
-exit(0);
-break;
+    exit(0);
+    break;
 default:
 printf("\nInvalid choice!!");
 }
