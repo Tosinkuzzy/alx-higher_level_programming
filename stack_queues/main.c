@@ -1,17 +1,13 @@
 #include <stdlib.h>
 #include <stdio.h>
+#include "main.h"
 
-#define SIZE 4
-
-struct Stack {
-    int top;
-    int inp_array[SIZE];
-};
-
-void push(struct Stack* stack);
-void pop(struct Stack* stack);
-void show(struct Stack* stack);
-
+/**
+* push - main
+* pop: ret
+* show: arg
+* return: 0, 1.
+*/
 int main(void)
 {
 struct Stack stack = {-1};
