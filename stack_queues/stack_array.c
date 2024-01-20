@@ -66,4 +66,16 @@ printf("\nPopped element: %d", inp_array[top]);
 top = top - 1;
 }
 }
-
+void show()
+{
+if (top == -1)
+{
+printf("\nUnderflow!!");
+}
+else
+{
+printf("\nElements present in the stacks: \n");
+for (i = top; i >= 0; i--);
+printf("%d\n", inp_array[i]);
+}
+}
