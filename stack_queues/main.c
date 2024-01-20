@@ -41,7 +41,7 @@ default:
 }
 
 /* Pushes an element onto the stack */
-void push(struct Stack* stack)
+void push(struct Stack *stack)
 {
 int x;
 
@@ -59,7 +59,7 @@ stack->inp_array[stack->top] = x;
 }
 
 /* Pops an element from the stack */
-void pop(struct Stack* stack)
+void pop(struct Stack *stack)
 {
 if (stack->top == -1)
 {
@@ -73,7 +73,7 @@ stack->top = stack->top - 1;
 }
 
 /* Displays the elements of the stack */
-void show(struct Stack* stack)
+void show(struct Stack *stack)
 {
 if (stack->top == -1)
 {
