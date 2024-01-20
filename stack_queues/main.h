@@ -1,12 +1,19 @@
 #ifndef MAIN_H
 #define MAIN_H
 
+#include <stdlib.h>
+#include <stdio.h>
+
 #define SIZE 4
 
-int top = -1, inp_array[SIZE];
-void push();
-void pop();
-void show();
-int choice;
+struct Stack
+{
+    int top;
+    int inp_array[SIZE];
+};
+
+void push(struct Stack* stack);
+void pop(struct Stack* stack);
+void show(struct Stack* stack);
 
 #endif /* MAIN_H *\
