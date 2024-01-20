@@ -46,3 +46,11 @@ if (top == SIZE - 1)
 {
 printf("\nOverflow!!");
 }
+else
+{
+printf("\nEnter the element to be added to the stack: ");
+scanf("%d", &x);
+top = top + 1;
+inp_array[top] = x;
+}
+}
