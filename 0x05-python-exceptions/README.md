@@ -699,4 +699,8 @@ Element 7: float
 [*] Python list info
   [ERROR] Invalid List Object
 julien@ubuntu:~/CPython$
+Repo:
 
+GitHub repository: alx-higher_level_programming
+Directory: 0x05-python-exceptions
+File: 103-python.c
