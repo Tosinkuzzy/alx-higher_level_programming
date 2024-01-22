@@ -30,5 +30,9 @@ except Exception as inst:
     print(inst)
 
     x, y = inst.args
+    z = x, y
     print('x =', x)
     print('y =', y)
+    print('z =', z * 3)
+except ValueError:
+    print('z =', z)
