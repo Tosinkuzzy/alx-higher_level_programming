@@ -171,4 +171,10 @@ nb_print: 5
   File "/0x05/2-safe_print_list_integers.py", line 7, in safe_print_list_integers
     print("{:d}".format(my_list[i]), end="")
 IndexError: list index out of range
-guillaume@ubuntu:~/0x05$ 
+guillaume@ubuntu:~/0x05$
+Repo:
+
+GitHub repository: alx-higher_level_programming
+Directory: 0x05-python-exceptions
+File: 2-safe_print_list_integers.py
+
