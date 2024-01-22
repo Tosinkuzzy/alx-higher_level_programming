@@ -356,4 +356,9 @@ guillaume@ubuntu:~/0x05$ ./100-main.py 2> /dev/null
 -89
 School is not an integer
 guillaume@ubuntu:~/0x05$
+Repo:
+
+GitHub repository: alx-higher_level_programming
+Directory: 0x05-python-exceptions
+File: 100-safe_print_integer_err.py
 
