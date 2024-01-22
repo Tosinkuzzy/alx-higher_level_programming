@@ -313,3 +313,5 @@ GitHub repository: alx-higher_level_programming
 Directory: 0x05-python-exceptions
 File: 6-raise_exception_msg.py
 
+7. Safe integer print with error message1~
+
