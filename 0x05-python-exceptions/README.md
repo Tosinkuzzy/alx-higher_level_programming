@@ -307,4 +307,9 @@ except NameError as ne:
 guillaume@ubuntu:~/0x05$ ./6-main.py
 C is fun
 guillaume@ubuntu:~/0x05$
+Repo:
+
+GitHub repository: alx-higher_level_programming
+Directory: 0x05-python-exceptions
+File: 6-raise_exception_msg.py
 
