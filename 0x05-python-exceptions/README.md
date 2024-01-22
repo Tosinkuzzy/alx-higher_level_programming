@@ -416,4 +416,9 @@ result of my_div: None
 4
 result of print_list: None
 guillaume@ubuntu:~/0x05$
+Repo:
+
+GitHub repository: alx-higher_level_programming
+Directory: 0x05-python-exceptions
+File: 101-safe_function.py
 
