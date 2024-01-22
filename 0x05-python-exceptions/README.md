@@ -263,3 +263,5 @@ GitHub repository: alx-higher_level_programming
 Directory: 0x05-python-exceptions
 File: 4-list_division.py
 
+5. Raise exception
+
