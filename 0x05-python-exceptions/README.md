@@ -288,3 +288,5 @@ GitHub repository: alx-higher_level_programming
 Directory: 0x05-python-exceptions
 File: 5-raise_exception.py
 
+6. Raise a message
+
