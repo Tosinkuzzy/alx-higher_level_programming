@@ -178,3 +178,5 @@ GitHub repository: alx-higher_level_programming
 Directory: 0x05-python-exceptions
 File: 2-safe_print_list_integers.py
 
+3. Integers division with debug
+
