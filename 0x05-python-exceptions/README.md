@@ -122,4 +122,9 @@ guillaume@ubuntu:~/0x05$ ./1-main.py
 -89
 School is not an integer
 guillaume@ubuntu:~/0x05$ 
+Repo:
+
+GitHub repository: alx-higher_level_programming
+Directory: 0x05-python-exceptions
+File: 1-safe_print_integer.py
 
