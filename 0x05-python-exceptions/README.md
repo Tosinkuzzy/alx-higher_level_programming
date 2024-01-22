@@ -210,4 +210,9 @@ Inside result: 6.0
 Inside result: None
 12 / 0 = None
 guillaume@ubuntu:~/0x05$
+Repo:
+
+GitHub repository: alx-higher_level_programming
+Directory: 0x05-python-exceptions
+File: 3-safe_print_division.py
 
