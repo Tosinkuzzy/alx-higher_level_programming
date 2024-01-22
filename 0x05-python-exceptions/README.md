@@ -488,4 +488,5 @@ GitHub repository: alx-higher_level_programming
 Directory: 0x05-python-exceptions
 File: 102-magic_calculation.py
 
+10. CPython #2: PyFloatObject
 
