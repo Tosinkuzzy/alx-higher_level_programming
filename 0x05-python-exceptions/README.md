@@ -362,3 +362,5 @@ GitHub repository: alx-higher_level_programming
 Directory: 0x05-python-exceptions
 File: 100-safe_print_integer_err.py
 
+8. Safe function
+
