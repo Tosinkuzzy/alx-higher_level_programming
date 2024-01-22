@@ -216,3 +216,5 @@ GitHub repository: alx-higher_level_programming
 Directory: 0x05-python-exceptions
 File: 3-safe_print_division.py
 
+4. Divide a list
+
