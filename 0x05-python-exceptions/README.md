@@ -481,3 +481,11 @@ Write the Python function def magic_calculation(a, b): that does exactly the sam
  13     >>  103 LOAD_FAST                2 (result)
             106 RETURN_VALUE
 
+Tip: Python bytecode
+Repo:
+
+GitHub repository: alx-higher_level_programming
+Directory: 0x05-python-exceptions
+File: 102-magic_calculation.py
+
+
