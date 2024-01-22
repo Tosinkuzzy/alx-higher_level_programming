@@ -422,3 +422,5 @@ GitHub repository: alx-higher_level_programming
 Directory: 0x05-python-exceptions
 File: 101-safe_function.py
 
+9. ByteCode -> Python #4
+
