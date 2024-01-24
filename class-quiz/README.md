@@ -6,3 +6,5 @@ Weight: 1
  An auto review will be launched at the deadline
 In a nutshell…
 Auto QA review: 0.0/77 mandatory & 0.0/63 optional
+Altogether:  0.0%
+
