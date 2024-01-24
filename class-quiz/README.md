@@ -10,3 +10,4 @@ Altogether:  0.0%
 Mandatory: 0.0%
 Optional: 0.0%
 Calculation:  0.0% + (0.0% * 0.0%)  == 0.0%
+Background Context
