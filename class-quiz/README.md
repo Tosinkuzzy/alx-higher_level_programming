@@ -8,3 +8,4 @@ In a nutshell…
 Auto QA review: 0.0/77 mandatory & 0.0/63 optional
 Altogether:  0.0%
 Mandatory: 0.0%
+Optional: 0.0%
