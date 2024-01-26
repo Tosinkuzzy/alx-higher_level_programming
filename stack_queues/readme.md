@@ -23,4 +23,5 @@ Don’t trust the user, always think about all possible edge cases
 Resources
 Read or watch:
 doctest — Test interactive Python examples (until “26.2.3.7. Warnings” included)
+doctest – Testing through documentation
 
