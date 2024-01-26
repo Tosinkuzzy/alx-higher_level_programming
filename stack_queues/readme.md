@@ -19,4 +19,5 @@ The intranet checks for Python projects won’t be released before their first d
 about all possible cases
 trongly encourage you to work together on test cases, so that you don’t miss any edge case. But not in the implementation of
 them!
+Don’t trust the user, always think about all possible edge cases
 
