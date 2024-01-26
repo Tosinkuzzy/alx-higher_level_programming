@@ -12,4 +12,5 @@ For this project, we expect you to look at this concept:
 Never forget a test
 Background Context
 Important notice on intranet checks for Python projects
+Starting from today:
 
