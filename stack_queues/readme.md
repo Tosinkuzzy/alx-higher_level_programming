@@ -41,4 +41,5 @@ RSA Factoring Challenge
  By: Julien Barbier
 Background Context
 Before you continue reading, start this song in the background :)
+We have sniffed an unsecured network and found numbers that are used to encrypt very important documents.
 
