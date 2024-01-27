@@ -72,4 +72,5 @@ Output format: n=p*q
 one factorization per line
 p and q don’t have to be prime numbers
 p and q don’t have to be prime numbers
+p and q don’t have to be prime numbers
 
