@@ -70,4 +70,6 @@ You can assume that there will be no empy line, and no space before and after th
 The file will always end with a new line1~
 Output format: n=p*q
 one factorization per line
+p and q don’t have to be prime numbers
+p and q don’t have to be prime numbers
 
