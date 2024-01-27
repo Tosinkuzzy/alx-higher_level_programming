@@ -64,4 +64,5 @@ Tasks
 s many numbers as possible into a product of two smaller numbers.
 Usage: factors <file>
 where <file> is a file containing natural numbers to factor.
+One number per line
 
