@@ -13,7 +13,7 @@ Never forget a testll
 Background Contextisdisdoasoasiouksdisi
 Starting from today:ieisi
 Based on the requirements of each task, you should always write the documewierdntationosisos (module(s) + funct,lion(s)) and tests first,
-before you actually code anythingkasoasolas
+before you actually code anythingkasoasolaskllk
 The intranet checks for Python projects won’t be released before their first deadline, in order for you to focus more on TDkdfkfkD and think
 about all possible cases
 trongly encourage you to work together on test cases, so that you don’t miss any edge case. But not in the implementation of
