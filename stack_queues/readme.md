@@ -12,7 +12,7 @@ lluwue
 Never forget a testll
 Background Contextisdisdoasoasiouksdisi
 Starting from today:ieisi
-Based on the requirements of each task, you should always write the documentationosisos (module(s) + function(s)) and tests first,
+Based on the requirements of each task, you should always write the documewierdntationosisos (module(s) + function(s)) and tests first,
 before you actually code anythingkasoasolas
 The intranet checks for Python projects won’t be released before their first deadline, in order for you to focus more on TDD and think
 about all possible cases
