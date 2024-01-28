@@ -20,7 +20,7 @@ trongly encourage you to work together on test cases, so that you don’t miss a
 them!
 Don’t tujuies
 Read or watch:
-doctest — Test interactive Python examples (until “26.2.3.7. Warnings” included)
+doctest — Test interactive Python examples (until “26.2.3.7. Warnings” included)jdujdudud
 doctest – Testing through documentation
 Unit Tests in Python
 Unittest module
