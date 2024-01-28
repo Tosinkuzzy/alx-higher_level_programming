@@ -10,8 +10,7 @@ Conceptsidisdik
 For this project, we expect you to look at this concept:
 lluwue
 Never forget a testll
-Background Contextisdisdoasoasio
-Important notice on intranet checks for Python projects
+Background Contextisdisdoasoasiouksdisi
 Starting from today:ieisi
 Based on the requirements of each task, you should always write the documentationosisos (module(s) + function(s)) and tests first,
 before you actually code anythingkasoasolas
