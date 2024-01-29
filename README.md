@@ -2,7 +2,7 @@
 
 [By]: Guillaume
 [Weight]: 1
-Project will start Jan 2,   
+Project will start Jan    
  
 An auto review    
 Concepts
