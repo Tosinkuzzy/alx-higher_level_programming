@@ -10,10 +10,10 @@ class Robot:
         if name == 'name':
             if value in ['Henry', 'Tosinkuzzy']:
                 raise ValueError('Not a decent robot name')
-            elif name == 'build_year':
-                if int(value) < 2024:
-                    raise ValueError('Build year has to be after 2024')
-            self.__dict__[f"__{name}"] = value
+        elif name == 'build_year':
+            if int(value) < 2024:
+                raise ValueError('Build year has to be after 2024')
+        self.__dict__[f"__{name}"] = value
 
 robot = Robot("Marvin", 2024, "TechCity")
 print(robot.name)
