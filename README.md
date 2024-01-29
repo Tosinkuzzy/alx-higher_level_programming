@@ -2,7 +2,7 @@
 
 [By]: Guillaume
 [Weight]: 1
-Project will    
+Project    
  
 An auto review    
 Concepts
