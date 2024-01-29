@@ -1,6 +1,6 @@
 # alx-higher_level_programming
 
-By: Guillaume
+[By]: Guillaume
 Weight: 1
 Project will start Jan 2, 2024 6:00 AM, must end by Jan 3, 2024 6:00 AM
 Checker will be released at Jan 2, 2024 12:00 PM
