@@ -3,7 +3,7 @@
 [By]: Guillaume
 [Weight]: 1
 Project will start Jan 2,   
-Checker will  
+Checker  
 An auto review    
 Concepts
 For this project, we expect you to look at this concept:
