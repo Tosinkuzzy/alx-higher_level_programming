@@ -4,7 +4,7 @@
 [Weight]: 1
 Project will start Jan 2, 2024 6:00 AM,  
 Checker will be released at Jan 2, 2024 12:00
-An auto review will be launched at the dead
+An auto review will be launched at the 
 Concepts
 For this project, we expect you to look at this concept:
 
