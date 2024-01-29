@@ -2,7 +2,7 @@
 
 [By]: Guillaume
 [Weight]: 1
-Project will start Jan 2, 2024 6:00 AM,  
+Project will start Jan 2, 2024 6:00,  
 Checker will be released at Jan 2, 
 An auto review will be launched at  
 Concepts
