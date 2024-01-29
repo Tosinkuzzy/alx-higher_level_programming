@@ -4,7 +4,7 @@
 [Weight]: 1
 Project    
  
-An auto review    
+An auto    
 Concepts
 For this project, we expect you to look at this concept:
 
