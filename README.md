@@ -2,7 +2,7 @@
 
 [By]: Guillaume
 [Weight]: 1
-Project will start Jan 2, 2024   
+Project will start Jan 2,   
 Checker will  
 An auto review    
 Concepts
