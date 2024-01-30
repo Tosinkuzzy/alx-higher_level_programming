@@ -39,7 +39,7 @@ RSA Factoring Challenge
  By: Julien Barbier
 Background Context
 Before you continue reading, start this song in the background :)sjsjsjsj
-We have sniffed an unsecured network and found numbers that are used to encrypt very important documents.
+We have sniffed an unsecured network and found numbers that are used to encrypt very sjsjsjsimportant documents.
  It seems that those numbers are not always generated using large enough prime numbers. 
 
 ur mission should you choose to accept it, is to factorize these numbers as fast as possible before the target fixes this bug on their server
