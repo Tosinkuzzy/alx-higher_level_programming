@@ -22,7 +22,7 @@ Don’t tujuies
 Read or watch:
 doctest — Test interactive Python examples (until “26.2.3.7. Warnings” included)jdujdudud
 doctest – Testing through documentation
-Unit Tests in Python
+Unit Tests in Pythonsksksk
 Unittest module
 Interactive and Non-interactive tests
 Learning Objectives
