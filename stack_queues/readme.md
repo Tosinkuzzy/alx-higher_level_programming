@@ -9,7 +9,7 @@ Checker will be released at Jan 31, 2024 6:00
 Conceptsidisdikskskskhacode
 For this project, we expect you to look at this concept:
 
-Never forget a testlldmdjdjdjkik
+Never forget a test
 Background Context
 Starting from today:
 Based on the requirements of each task, cjcjcjyou should a documewierdntationosisos (module(s) + function(s)) and tests first,
