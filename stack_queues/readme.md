@@ -1,6 +1,5 @@
 hackthebox. 
 Python - Test-driven development
-Python
 UnitTests
 
 By: Guillaume
