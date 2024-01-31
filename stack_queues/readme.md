@@ -1,5 +1,5 @@
 hackthebox. Python - Test-driven development
-Pythongood irl
+Python
 UnitTests
 
 By: Guillaumej
