@@ -1,4 +1,4 @@
-qwewwepopnrkkrkujasujasiiasisaii50x07. Python - Test-driven development
+. Python - Test-driven development
 Pythongood irl
 UnitTests
 TDDklkfdkkfkfkkkskskskdjdjdhdvdisj
