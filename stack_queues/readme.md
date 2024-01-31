@@ -12,7 +12,7 @@ lluwuekskskdjdjdjkkk
 Never forget a testlldmdjdjdjkik
 Background Contextisdisdoasoasiouksdisidjdjdj
 Starting from today:ieisisksksklets 
-Based on the requirements of each task, cjcjcjyou should alwacjcjjjfys write the documewierdntationosisos (moduledjdjd(s) + funct,lion(s)) and tests first,
+Based on the requirements of each task, cjcjcjyou should a documewierdntationosisos (moduledjdjd(s) + funct,lion(s)) and tests first,
 before you actually code anythingkasoasolaskllk
 The intranet checks for Python projects won’t be released before their first deadline, in orderhchch for you to focus more on TDkdfkfkD and think
 about all possible casesiidisjsjsjs
