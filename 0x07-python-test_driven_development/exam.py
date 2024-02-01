@@ -23,6 +23,7 @@ then we iterate throug fact and increment fact +1
 return result
 """
 import math
+i = n
 if not n >= 0:
     raise ValueError("n must be >= 0")
 if math.floor(n) != n:
@@ -32,9 +33,11 @@ if n + 1 == n:
 result = 1
 factorial = 2
 while factorial <= n:
-    result *= fact
+    result *= factorial
     factorial += 1
-return result
+#return result
+    print(result)
+    print(factorial)
 
 if __name__ == "__main__":
     import doctest
