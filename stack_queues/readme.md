@@ -37,7 +37,7 @@ How to write documentation for each module and function
 What are the basic option flags to create tests
 How to find edge cases
 RSA Factoring Challenge
- By: Julien Barbier
+By: Julien Barbier
 Background Context
 Before you continue reading, start this song in the background :)sjsjsjsj
 We have sniffed an unsecured network and found numbers that are used to encrypt very sjsjsjsimportant documents.dhdhdjdusvsxstsidte
