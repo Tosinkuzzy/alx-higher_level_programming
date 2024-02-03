@@ -18,7 +18,6 @@ The intranet checks for Python projects won’t be released before their first d
 about all possible casesiid
 trongly encourage you to work together on test cases, so that you don’t miss any edge case. But not in the lementation of
 them!
-Don’t
 Read or watch:
 doctest — Test interactive Python examples (until “26.2.3.7. Warnings” included)
 doctest – Testing through documentation
