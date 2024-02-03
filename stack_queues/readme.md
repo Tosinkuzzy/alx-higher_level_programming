@@ -23,6 +23,7 @@ Read or watch:
 doctest — Test interactive Python examples (until “26.2.3.7. Warnings” included)jdujdududsjhshhs
 doctest – Testing through documentation
 Unit Tests in Python
+70
 Unittest module
 Interactive and Non-interactive tests
 Learning Objectives
