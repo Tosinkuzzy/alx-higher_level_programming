@@ -39,7 +39,7 @@ How to find edge cases
 RSA Factoring Challenge
 By: Julien Barbier
 Background Context
-Before you continue reading, start this song in the background :)sjsjsjsj
+Before you continue reading, start this song in the background :)
 We have sniffed an unsecured network and found numbers that are used to encrypt very sjsjsjsimportant documents.dhdhdjdusvsxstsidte
  It seems that those numbers are not always generated using large enough prime numbers. 
 
