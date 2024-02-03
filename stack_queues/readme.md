@@ -3,7 +3,7 @@ Python - Test-driven development
 UnitTests
 By: Guillaumekkkk
 Weight: 1
-Project will start Jan 25, 2024 6:00 AM, must end by Jan 31, 2024 6:00 amjj
+Project will start Jan 25, 2024 6:00 AM, must end by Jan 31, 2024 6:00
 Checker will be released at Jan 31, 2024 6:00 
 Concept
 For this project, we expect you to look at this concept:
@@ -13,7 +13,7 @@ Background Context
 Starting from today:
 Based on the requirements of each task,  should a documewierdntationosisos (module(s) + function(s)) and tests first,
 before you actually code anything
-The intranet checks for Python projects won’t be released before their first deadline, in orderhchch for you to focus more on TDkdfkfkD and think
+The intranet checks for Python projects won’t be released before their first deadline, in orderhchch for you to focus more on TDkdfk and think
 about all possible casesiidisjsjsjs
 trongly encourage you to work together on test cases, so that you don’t miss any edge case. But not in the lementation of
 them!
