@@ -15,7 +15,7 @@ Starting from today:
 Based on the requirements of each task,  should a documewierdntationosisos (module(s) + function(s)) and tests first,
 before you actually code anything
 The intranet checks for Python projects won’t be released before their first deadline, in orderhchch for you to focus more on and think
-about all possible casesiidisjsjsjs
+about all possible casesiidisjs
 trongly encourage you to work together on test cases, so that you don’t miss any edge case. But not in the lementation of
 them!
 Don’t tu
