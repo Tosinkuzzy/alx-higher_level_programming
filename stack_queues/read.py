@@ -1,9 +1,9 @@
 #!/usr/bin/python3
 
 """
-Cloning a list to another object
+enumerate generate both the index abd the value 
+associated with it during the list traversal
 """
-a = [1, 2, 3]
-b = a[:2]
-print(a)
-print(b)
+
+for index, value in enumerate(['orange', 'rice', 'efo', 'garri']):
+    print(index, value)
