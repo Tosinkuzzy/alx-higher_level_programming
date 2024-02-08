@@ -1,19 +1,4 @@
 
-
-Never forget a test
-Context
-Starting from today:
-Based on the requirements of each task,  should a documewierdntationosisos (module(s) + function(s)) and tests first,
-before you actually code anything
-The intranet checks for Python projects won’t be released before their first deadline, in orderhc for you to focus more on and think
-about all possible casesiid
-trongly encourage you to work together on test cases, so that you don’t miss any edge case. But not in the lementation of
-them!
-Read or watch:
-doctest — Test interactive Python examples (until “26.2.3.7. Warnings” included)
-doctest – Testing through documentation
-Unit Tests in Python
-70
 Unittest module
 Interactive and Non-interactive tests
 Learning Objectives
