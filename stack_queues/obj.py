@@ -9,6 +9,7 @@ interactions, and behaviour of complex things.
 >>> suits = chinese
 >>> suits.pop()
 >>> suits.remove('string')
+>>> suits.extend(['sword', 'club'])
 >>> suits
 
 """
