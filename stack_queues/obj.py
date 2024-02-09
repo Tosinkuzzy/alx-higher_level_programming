@@ -22,6 +22,8 @@ suits = chinese
 suits.pop()
 suits.remove('string')
 suits.append('cup')
+suits.extend(['sword', 'club'])
+suits[2] = 'spade'
 print(suits)
 print(chinese)
 import doctest
