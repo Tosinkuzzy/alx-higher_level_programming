@@ -17,5 +17,9 @@ interactions, and behaviour of complex things.
 >>> chinese
 
 """
-import doctest
-doctest.testmod()
+chinese = ['coin', 'string', 'myriad']
+suits = chinese
+suits.pop()
+suits.remove('string')
+print(suits)
+print(chinese)
