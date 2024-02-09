@@ -21,5 +21,6 @@ chinese = ['coin', 'string', 'myriad']
 suits = chinese
 suits.pop()
 suits.remove('string')
+suits.append('cup')
 print(suits)
 print(chinese)
