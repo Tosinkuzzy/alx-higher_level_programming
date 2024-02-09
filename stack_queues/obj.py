@@ -8,9 +8,10 @@ interactions, and behaviour of complex things.
 >>> chinese = ['coin', 'string', 'myriad']
 >>> suits = chinese
 >>> suits.pop()
->>> suits.remove('string')i
+>>> suits.remove('string')
 >>> suits.append('cup')
 >>> suits.extend(['sword', 'club'])
+>>> suits[2] = 'spade'
 >>> suits
 >>> chinese
 
