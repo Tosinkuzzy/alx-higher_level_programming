@@ -24,3 +24,5 @@ suits.remove('string')
 suits.append('cup')
 print(suits)
 print(chinese)
+import doctest
+doctest.testmod()
