@@ -12,6 +12,7 @@ interactions, and behaviour of complex things.
 >>> suits.append('cup')
 >>> suits.extend(['sword', 'club'])
 >>> suits[2] = 'spade'
+>>> suits[0:2] = ['heart', 'diamond']
 >>> suits
 >>> chinese
 
