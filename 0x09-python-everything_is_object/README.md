@@ -40,4 +40,16 @@ It’s important that you truly understand the reasons behind the answers of all
 Note that during interviews for Python positions, you will most likely have to answer to these type of questions.
 
 All your answers should be only one line in a file. No space before or after the answer.
+Resources
+Read or watch:
+
+9.10. Objects and values
+9.11. Aliasing
+Immutable vs mutable types
+Mutation (Only this chapter)
+9.12. Cloning lists
+Python tuples: immutable but potentially changing
+
+Learning Objectives
+At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
 
