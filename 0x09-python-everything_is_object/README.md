@@ -117,10 +117,21 @@ In the following code, do a and b point to the same object? Answer with Yes or N
 
 >>> a = 89
 >>> b = 100
+Repo:
+
+GitHub repository: alx-higher_level_programming
+Directory: 0x09-python-everything_is_object
+File: 2-answer.txt
 
 3. Right count =
 In the following code, do a and b point to the same object? Answer with Yes or No.
 
 >>> a = 89
 >>> b = 89
+Repo:
+
+GitHub repository: alx-higher_level_programming
+Directory: 0x09-python-everything_is_object
+File: 3-answer.txt
+
 
