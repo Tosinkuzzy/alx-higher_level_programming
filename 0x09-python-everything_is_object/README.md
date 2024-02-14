@@ -101,3 +101,5 @@ GitHub repository: alx-higher_level_programming
 Directory: 0x09-python-everything_is_object
 File: 0-answer.txt
 
+1. Where are you?
+
